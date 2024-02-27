@@ -1,12 +1,13 @@
 #EXTM3U
 
-# █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
-# █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-02-27 14:50:40 UTC
+#  ▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█    ▀▀█▀▀ ▒█▀▀▀█ ▀▄▒▄▀ ▀█▀ ▒█▀▀█ 
+#  ░▒█░░ █▀▀ █▄▄█ █░▀░█    ░▒█░░ ▒█░░▒█ ░▒█░░ ▒█░ ▒█░░░ 
+#  ░▒█░░ ▀▀▀ ▀░░▀ ▀░░░▀    ░▒█░░ ▒█▄▄▄█ ▄▀▒▀▄ ▄█▄ ▒█▄▄█
+# ――――――――――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 2024-02-27 14:52:36 UTC
 # (●) Service: AESport
 # (●) Total Channels: 255
-# (●) Join: https://t.me/realcodecrafters
+# (●) Join: https://t.me/Toxic_X_Bolt
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
