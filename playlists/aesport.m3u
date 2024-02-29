@@ -4,7 +4,7 @@
 #  ░▒█░░ █▀▀ █▄▄█ █░▀░█    ░▒█░░ ▒█░░▒█ ░▒█░░ ▒█░ ▒█░░░ 
 #  ░▒█░░ ▀▀▀ ▀░░▀ ▀░░░▀    ░▒█░░ ▒█▄▄▄█ ▄▀▒▀▄ ▄█▄ ▒█▄▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-02-29 01:56:40 UTC
+# (●) Last Update: 2024-02-29 02:27:40 UTC
 # (●) Service: AESport
 # (●) Total Channels: 255
 # (●) Join: https://t.me/Toxic_X_Bolt
@@ -77,7 +77,7 @@ https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="UK Channels",BBC One
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://pullcdnw.sportontv.online/live/uk_bbc1/index.m3u8
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="UK Channels",BBC Two
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -332,7 +332,7 @@ https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="US Channels",BBC One
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://pullcdnw.sportontv.online/live/uk_bbc1/index.m3u8
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="US Channels",BBC Two
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -587,7 +587,7 @@ https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="France Channels",BBC One
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://pullcdnw.sportontv.online/live/uk_bbc1/index.m3u8
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="France Channels",BBC Two
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -842,7 +842,7 @@ https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="Portugal Channels",BBC One
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://pullcdnw.sportontv.online/live/uk_bbc1/index.m3u8
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="Portugal Channels",BBC Two
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -1097,7 +1097,7 @@ https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="DSTV Channels",BBC One
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://pullcdnw.sportontv.online/live/uk_bbc1/index.m3u8
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="DSTV Channels",BBC Two
 #EXTVLCOPT:http-referrer=https://aesport.tv/
