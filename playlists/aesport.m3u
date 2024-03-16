@@ -4,7 +4,7 @@
 #  ░▒█░░ █▀▀ █▄▄█ █░▀░█    ░▒█░░ ▒█░░▒█ ░▒█░░ ▒█░ ▒█░░░ 
 #  ░▒█░░ ▀▀▀ ▀░░▀ ▀░░░▀    ░▒█░░ ▒█▄▄▄█ ▄▀▒▀▄ ▄█▄ ▒█▄▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-16 15:30:19 UTC
+# (●) Last Update: 2024-03-16 15:40:47 UTC
 # (●) Service: AESport
 # (●) Total Channels: 160
 # (●) Join: https://t.me/Toxic_X_Bolt
@@ -137,12 +137,12 @@ https://us.score806.cc/us_usa/index.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.acdsport.com/upload/Livetv/nfl-network.png" group-title="UK Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_nflnetwork/index.m3u8
+https://us.score806.cc/us_nflnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.acdsport.com/tvs/70.png" group-title="UK Channels",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.acdsport.com/upload/tvs/43.png" group-title="UK Channels",NBA TV
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -152,12 +152,12 @@ https://us.score806.cc/us_nbatv/index.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.acdsport.com/upload/Livetv/uswillow.png" group-title="UK Channels",Willow Cricket
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_willow/index.m3u8
+https://us.score806.cc/us_willow/index.m3u8
 
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.acdsport.com/tvs/117.png" group-title="UK Channels",WWE Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_wwe/index.m3u8
+https://us.score806.cc/us_wwe/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="UK Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -337,12 +337,12 @@ https://us.score806.cc/us_usa/index.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.acdsport.com/upload/Livetv/nfl-network.png" group-title="US Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_nflnetwork/index.m3u8
+https://us.score806.cc/us_nflnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.acdsport.com/tvs/70.png" group-title="US Channels",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.acdsport.com/upload/tvs/43.png" group-title="US Channels",NBA TV
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -352,12 +352,12 @@ https://us.score806.cc/us_nbatv/index.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.acdsport.com/upload/Livetv/uswillow.png" group-title="US Channels",Willow Cricket
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_willow/index.m3u8
+https://us.score806.cc/us_willow/index.m3u8
 
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.acdsport.com/tvs/117.png" group-title="US Channels",WWE Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_wwe/index.m3u8
+https://us.score806.cc/us_wwe/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="US Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -537,12 +537,12 @@ https://us.score806.cc/us_usa/index.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.acdsport.com/upload/Livetv/nfl-network.png" group-title="France Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_nflnetwork/index.m3u8
+https://us.score806.cc/us_nflnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.acdsport.com/tvs/70.png" group-title="France Channels",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.acdsport.com/upload/tvs/43.png" group-title="France Channels",NBA TV
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -552,12 +552,12 @@ https://us.score806.cc/us_nbatv/index.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.acdsport.com/upload/Livetv/uswillow.png" group-title="France Channels",Willow Cricket
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_willow/index.m3u8
+https://us.score806.cc/us_willow/index.m3u8
 
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.acdsport.com/tvs/117.png" group-title="France Channels",WWE Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_wwe/index.m3u8
+https://us.score806.cc/us_wwe/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -737,12 +737,12 @@ https://us.score806.cc/us_usa/index.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.acdsport.com/upload/Livetv/nfl-network.png" group-title="Portugal Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_nflnetwork/index.m3u8
+https://us.score806.cc/us_nflnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.acdsport.com/tvs/70.png" group-title="Portugal Channels",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_cbssportsnetwork/index.m3u8
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.acdsport.com/upload/tvs/43.png" group-title="Portugal Channels",NBA TV
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -752,12 +752,12 @@ https://us.score806.cc/us_nbatv/index.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.acdsport.com/upload/Livetv/uswillow.png" group-title="Portugal Channels",Willow Cricket
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_willow/index.m3u8
+https://us.score806.cc/us_willow/index.m3u8
 
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.acdsport.com/tvs/117.png" group-title="Portugal Channels",WWE Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_wwe/index.m3u8
+https://us.score806.cc/us_wwe/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="Portugal Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
