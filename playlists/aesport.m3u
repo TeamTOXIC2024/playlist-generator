@@ -4,7 +4,7 @@
 #  ░▒█░░ █▀▀ █▄▄█ █░▀░█    ░▒█░░ ▒█░░▒█ ░▒█░░ ▒█░ ▒█░░░ 
 #  ░▒█░░ ▀▀▀ ▀░░▀ ▀░░░▀    ░▒█░░ ▒█▄▄▄█ ▄▀▒▀▄ ▄█▄ ▒█▄▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-24 23:56:50 UTC
+# (●) Last Update: 2024-03-25 02:03:14 UTC
 # (●) Service: AESport
 # (●) Total Channels: 160
 # (●) Join: https://t.me/Toxic_X_Bolt
@@ -169,7 +169,7 @@ https://thumb.score806.cc/fr_beinsports1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_beinsports2/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="UK Channels",RMC SPORT 1
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/upload/tvs/13.png" group-title="UK Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport1/index.m3u8
@@ -369,7 +369,7 @@ https://thumb.score806.cc/fr_beinsports1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_beinsports2/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="US Channels",RMC SPORT 1
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/upload/tvs/13.png" group-title="US Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport1/index.m3u8
@@ -569,7 +569,7 @@ https://thumb.score806.cc/fr_beinsports1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_beinsports2/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="France Channels",RMC SPORT 1
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/upload/tvs/13.png" group-title="France Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport1/index.m3u8
@@ -769,7 +769,7 @@ https://thumb.score806.cc/fr_beinsports1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_beinsports2/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="Portugal Channels",RMC SPORT 1
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/upload/tvs/13.png" group-title="Portugal Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport1/index.m3u8
